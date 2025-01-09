@@ -1,6 +1,6 @@
 Save project with tests/ebay.spec.js
 
-api.spec.js file contains all the test scripts
+ebay.spec.js file contains all the test scripts
 
 Run the test npx playwright test
 
